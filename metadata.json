@@ -1,0 +1,7 @@
+{
+  "name": "Horacio Rojas Erazo - Futuristic Portfolio",
+  "description": "A dynamic, minimalist, and futuristic web development portfolio for Horacio Rojas Erazo, featuring an AI assistant powered by Gemini and high-end glassmorphism UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
